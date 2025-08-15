@@ -1,1 +1,1 @@
-Run: pip install -r requirements.txt first
+Run: pip install -r requirements.txt
